@@ -1,0 +1,12 @@
+[Version]
+Version=13.0
+[Designs]
+single=.\single\single.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+single=1
